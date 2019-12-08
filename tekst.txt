@@ -1,0 +1,1 @@
+To jest plik tekstowy. Ma on przeznaczenie tylko teksowe i testowe.
