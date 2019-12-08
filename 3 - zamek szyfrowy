@@ -1,0 +1,12 @@
+
+kod = input("Podaj kod: ")
+print(kod)
+
+
+while 1 :
+    kod_1 = input("Zgaduj kod zamka szyfrowego ")
+    if kod == kod_1 :
+        print("Brawo! Podano prwidlowy kod.")
+        break
+    else :
+        print("Spróbuj jeszcze raz!")
